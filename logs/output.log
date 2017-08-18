@@ -1,0 +1,324 @@
+
+NodeBB v1.5.3 Copyright (C) 2013-2014 NodeBB Inc.
+This program comes with ABSOLUTELY NO WARRANTY.
+This is free software, and you are welcome to redistribute it under certain conditions.
+For the full license, please visit: http://www.gnu.org/copyleft/gpl.html
+
+Clustering enabled: Spinning up 1 process(es).
+
+18/8 13:47:43 [2958] - [32minfo[39m: Initializing NodeBB v1.5.3
+[deprecated] `String.prototype.rtrim` is deprecated as of NodeBB v1.5; use `utils.rtrim` instead.
+18/8 13:47:46 [2958] - [32minfo[39m: [socket.io] Restricting access to origin: http://forum.example.com:*
+
+18/8 13:47:46 [2958] - [33mwarn[39m: [plugins/load] The following plugins may not be compatible with your version of NodeBB. This may cause unintended behaviour or crashing. In the event of an unresponsive NodeBB caused by this plugin, run `./nodebb reset -p PLUGINNAME` to disable it.
+  * nodebb-plugin-markdown
+
+18/8 13:47:46 [2958] - [32minfo[39m: Routes added
+18/8 13:47:46 [2958] - [32minfo[39m: NodeBB Ready
+18/8 13:47:46 [2958] - [32minfo[39m: Enabling 'trust proxy'
+18/8 13:47:46 [2958] - [32minfo[39m: NodeBB is now listening on: 0.0.0.0:4567
+18/8 13:49:50 [2958] - [32minfo[39m: [app] Shutdown (SIGTERM/SIGINT) Initialised.
+[cluster] Child Process (2958) has exited (code: 0, signal: null)
+18/8 13:49:50 [2958] - [32minfo[39m: [app] Database connection closed.
+18/8 13:49:50 [2958] - [32minfo[39m: [app] Web server closed to connections.
+18/8 13:49:50 [2958] - [32minfo[39m: [app] Shutdown complete.
+
+NodeBB v1.5.3 Copyright (C) 2013-2014 NodeBB Inc.
+This program comes with ABSOLUTELY NO WARRANTY.
+This is free software, and you are welcome to redistribute it under certain conditions.
+For the full license, please visit: http://www.gnu.org/copyleft/gpl.html
+
+Clustering enabled: Spinning up 1 process(es).
+
+18/8 13:50:17 [3037] - [32minfo[39m: Initializing NodeBB v1.5.3
+[deprecated] `String.prototype.rtrim` is deprecated as of NodeBB v1.5; use `utils.rtrim` instead.
+18/8 13:50:19 [3037] - [32minfo[39m: [socket.io] Restricting access to origin: http://127.0.0.1:*
+
+18/8 13:50:19 [3037] - [33mwarn[39m: [plugins/load] The following plugins may not be compatible with your version of NodeBB. This may cause unintended behaviour or crashing. In the event of an unresponsive NodeBB caused by this plugin, run `./nodebb reset -p PLUGINNAME` to disable it.
+  * nodebb-plugin-markdown
+
+18/8 13:50:19 [3037] - [32minfo[39m: Routes added
+18/8 13:50:19 [3037] - [32minfo[39m: NodeBB Ready
+18/8 13:50:19 [3037] - [32minfo[39m: Enabling 'trust proxy'
+18/8 13:50:19 [3037] - [32minfo[39m: NodeBB is now listening on: 0.0.0.0:5001
+18/8 13:51:03 [3037] - [32minfo[39m: [app] Shutdown (SIGTERM/SIGINT) Initialised.
+[cluster] Child Process (3037) has exited (code: 0, signal: null)
+18/8 13:51:03 [3037] - [32minfo[39m: [app] Database connection closed.
+18/8 13:51:03 [3037] - [32minfo[39m: [app] Web server closed to connections.
+18/8 13:51:03 [3037] - [32minfo[39m: [app] Shutdown complete.
+
+NodeBB v1.5.3 Copyright (C) 2013-2014 NodeBB Inc.
+This program comes with ABSOLUTELY NO WARRANTY.
+This is free software, and you are welcome to redistribute it under certain conditions.
+For the full license, please visit: http://www.gnu.org/copyleft/gpl.html
+
+Clustering enabled: Spinning up 1 process(es).
+
+18/8 13:51:08 [3093] - [32minfo[39m: Initializing NodeBB v1.5.3
+[deprecated] `String.prototype.rtrim` is deprecated as of NodeBB v1.5; use `utils.rtrim` instead.
+18/8 13:51:10 [3093] - [32minfo[39m: [socket.io] Restricting access to origin: http://192.168.1.41:*
+
+18/8 13:51:10 [3093] - [33mwarn[39m: [plugins/load] The following plugins may not be compatible with your version of NodeBB. This may cause unintended behaviour or crashing. In the event of an unresponsive NodeBB caused by this plugin, run `./nodebb reset -p PLUGINNAME` to disable it.
+  * nodebb-plugin-markdown
+
+18/8 13:51:10 [3093] - [32minfo[39m: Routes added
+18/8 13:51:10 [3093] - [32minfo[39m: NodeBB Ready
+18/8 13:51:10 [3093] - [32minfo[39m: Enabling 'trust proxy'
+18/8 13:51:10 [3093] - [32minfo[39m: NodeBB is now listening on: 0.0.0.0:5001
+18/8 13:51:32 [3093] - [32minfo[39m: [app] Shutdown (SIGTERM/SIGINT) Initialised.
+18/8 13:51:32 [3093] - [32minfo[39m: [app] Database connection closed.
+[cluster] Child Process (3093) has exited (code: 0, signal: null)
+18/8 13:51:32 [3093] - [32minfo[39m: [app] Web server closed to connections.
+18/8 13:51:32 [3093] - [32minfo[39m: [app] Shutdown complete.
+
+NodeBB v1.5.3 Copyright (C) 2013-2014 NodeBB Inc.
+This program comes with ABSOLUTELY NO WARRANTY.
+This is free software, and you are welcome to redistribute it under certain conditions.
+For the full license, please visit: http://www.gnu.org/copyleft/gpl.html
+
+Clustering enabled: Spinning up 1 process(es).
+
+18/8 14:00:12 [3527] - [32minfo[39m: Initializing NodeBB v1.5.3
+[deprecated] `String.prototype.rtrim` is deprecated as of NodeBB v1.5; use `utils.rtrim` instead.
+18/8 14:00:14 [3527] - [32minfo[39m: [socket.io] Restricting access to origin: http://192.168.1.41:*
+
+18/8 14:00:14 [3527] - [33mwarn[39m: [plugins/load] The following plugins may not be compatible with your version of NodeBB. This may cause unintended behaviour or crashing. In the event of an unresponsive NodeBB caused by this plugin, run `./nodebb reset -p PLUGINNAME` to disable it.
+  * nodebb-plugin-markdown
+
+18/8 14:00:14 [3527] - [32minfo[39m: [plugins/emoji-one] Initial startup detected. Downloading emojione assets...
+18/8 14:00:15 [3527] - [32minfo[39m: Routes added
+18/8 14:00:15 [3527] - [32minfo[39m: NodeBB Ready
+18/8 14:00:15 [3527] - [32minfo[39m: Enabling 'trust proxy'
+18/8 14:00:15 [3527] - [32minfo[39m: NodeBB is now listening on: 0.0.0.0:5001
+18/8 14:00:23 [3527] - [32minfo[39m: [plugins/emoji-one] Emoji are ready.
+18/8 14:01:02 [3527] - [32minfo[39m: [app] Shutdown (SIGTERM/SIGINT) Initialised.
+18/8 14:01:02 [3527] - [32minfo[39m: [app] Database connection closed.
+18/8 14:01:02 [3527] - [32minfo[39m: [app] Web server closed to connections.
+18/8 14:01:02 [3527] - [32minfo[39m: [app] Shutdown complete.
+[cluster] Child Process (3527) has exited (code: 0, signal: null)
+
+NodeBB v1.5.3 Copyright (C) 2013-2014 NodeBB Inc.
+This program comes with ABSOLUTELY NO WARRANTY.
+This is free software, and you are welcome to redistribute it under certain conditions.
+For the full license, please visit: http://www.gnu.org/copyleft/gpl.html
+
+Clustering enabled: Spinning up 1 process(es).
+
+18/8 14:04:07 [3843] - [32minfo[39m: Initializing NodeBB v1.5.3
+[deprecated] `String.prototype.rtrim` is deprecated as of NodeBB v1.5; use `utils.rtrim` instead.
+18/8 14:04:09 [3843] - [32minfo[39m: [socket.io] Restricting access to origin: http://192.168.1.41:*
+
+18/8 14:04:09 [3843] - [33mwarn[39m: [plugins/load] The following plugins may not be compatible with your version of NodeBB. This may cause unintended behaviour or crashing. In the event of an unresponsive NodeBB caused by this plugin, run `./nodebb reset -p PLUGINNAME` to disable it.
+  * nodebb-plugin-markdown
+
+18/8 14:04:09 [3843] - [32minfo[39m: Routes added
+18/8 14:04:09 [3843] - [32minfo[39m: NodeBB Ready
+18/8 14:04:09 [3843] - [32minfo[39m: Enabling 'trust proxy'
+18/8 14:04:09 [3843] - [32minfo[39m: NodeBB is now listening on: 0.0.0.0:5001
+18/8 14:05:43 [3843] - [32minfo[39m: [app] Shutdown (SIGTERM/SIGINT) Initialised.
+18/8 14:05:43 [3843] - [32minfo[39m: [app] Database connection closed.
+[cluster] Child Process (3843) has exited (code: 0, signal: null)
+18/8 14:05:43 [3843] - [32minfo[39m: [app] Web server closed to connections.
+18/8 14:05:43 [3843] - [32minfo[39m: [app] Shutdown complete.
+Clustering enabled: Spinning up 1 process(es).
+
+18/8 14:05:44 [3883] - [32minfo[39m: Initializing NodeBB v1.5.3
+[deprecated] `String.prototype.rtrim` is deprecated as of NodeBB v1.5; use `utils.rtrim` instead.
+18/8 14:05:46 [3883] - [32minfo[39m: [socket.io] Restricting access to origin: http://192.168.1.41:*
+
+18/8 14:05:46 [3883] - [33mwarn[39m: [plugins/load] The following plugins may not be compatible with your version of NodeBB. This may cause unintended behaviour or crashing. In the event of an unresponsive NodeBB caused by this plugin, run `./nodebb reset -p PLUGINNAME` to disable it.
+  * nodebb-plugin-markdown
+
+18/8 14:05:47 [3883] - [32minfo[39m: Routes added
+18/8 14:05:47 [3883] - [32minfo[39m: NodeBB Ready
+18/8 14:05:47 [3883] - [32minfo[39m: Enabling 'trust proxy'
+18/8 14:05:47 [3883] - [32minfo[39m: NodeBB is now listening on: 0.0.0.0:4567
+18/8 14:08:47 [3883] - [32minfo[39m: [app] Shutdown (SIGTERM/SIGINT) Initialised.
+Clustering enabled: Spinning up 1 process(es).
+
+18/8 14:08:47 [3883] - [32minfo[39m: [app] Database connection closed.
+18/8 14:08:47 [3883] - [32minfo[39m: [app] Web server closed to connections.
+18/8 14:08:47 [3883] - [32minfo[39m: [app] Shutdown complete.
+[cluster] Child Process (3883) has exited (code: 0, signal: null)
+18/8 14:08:48 [4010] - [32minfo[39m: Initializing NodeBB v1.5.3
+[deprecated] `String.prototype.rtrim` is deprecated as of NodeBB v1.5; use `utils.rtrim` instead.
+18/8 14:08:50 [4010] - [32minfo[39m: [socket.io] Restricting access to origin: http://127.0.0.1:*
+
+18/8 14:08:50 [4010] - [33mwarn[39m: [plugins/load] The following plugins may not be compatible with your version of NodeBB. This may cause unintended behaviour or crashing. In the event of an unresponsive NodeBB caused by this plugin, run `./nodebb reset -p PLUGINNAME` to disable it.
+  * nodebb-plugin-markdown
+
+18/8 14:08:50 [4010] - [32minfo[39m: Routes added
+18/8 14:08:50 [4010] - [32minfo[39m: NodeBB Ready
+18/8 14:08:50 [4010] - [32minfo[39m: Enabling 'trust proxy'
+18/8 14:08:50 [4010] - [32minfo[39m: NodeBB is now listening on: 0.0.0.0:4567
+18/8 14:08:57 [4010] - [32minfo[39m: [app] Shutdown (SIGTERM/SIGINT) Initialised.
+Clustering enabled: Spinning up 1 process(es).
+
+18/8 14:08:57 [4010] - [32minfo[39m: [app] Database connection closed.
+18/8 14:08:57 [4010] - [32minfo[39m: [app] Web server closed to connections.
+18/8 14:08:57 [4010] - [32minfo[39m: [app] Shutdown complete.
+[cluster] Child Process (4010) has exited (code: 0, signal: null)
+18/8 14:08:58 [4039] - [32minfo[39m: Initializing NodeBB v1.5.3
+[deprecated] `String.prototype.rtrim` is deprecated as of NodeBB v1.5; use `utils.rtrim` instead.
+18/8 14:09:00 [4039] - [32minfo[39m: [socket.io] Restricting access to origin: http://127.0.0.1:*
+
+18/8 14:09:00 [4039] - [33mwarn[39m: [plugins/load] The following plugins may not be compatible with your version of NodeBB. This may cause unintended behaviour or crashing. In the event of an unresponsive NodeBB caused by this plugin, run `./nodebb reset -p PLUGINNAME` to disable it.
+  * nodebb-plugin-markdown
+
+18/8 14:09:00 [4039] - [32minfo[39m: Routes added
+18/8 14:09:00 [4039] - [32minfo[39m: NodeBB Ready
+18/8 14:09:00 [4039] - [32minfo[39m: Enabling 'trust proxy'
+18/8 14:09:00 [4039] - [32minfo[39m: NodeBB is now listening on: 0.0.0.0:4567
+18/8 14:12:41 [4039] - [32minfo[39m: [app] Shutdown (SIGTERM/SIGINT) Initialised.
+[cluster] Child Process (4039) has exited (code: 0, signal: null)
+18/8 14:12:41 [4039] - [32minfo[39m: [app] Database connection closed.
+18/8 14:12:41 [4039] - [32minfo[39m: [app] Web server closed to connections.
+Clustering enabled: Spinning up 1 process(es).
+18/8 14:12:41 [4039] - [32minfo[39m: [app] Shutdown complete.
+
+18/8 14:12:42 [4206] - [32minfo[39m: Initializing NodeBB v1.5.3
+[deprecated] `String.prototype.rtrim` is deprecated as of NodeBB v1.5; use `utils.rtrim` instead.
+18/8 14:12:44 [4206] - [32minfo[39m: [socket.io] Restricting access to origin: http://192.168.1.41:*
+
+18/8 14:12:44 [4206] - [33mwarn[39m: [plugins/load] The following plugins may not be compatible with your version of NodeBB. This may cause unintended behaviour or crashing. In the event of an unresponsive NodeBB caused by this plugin, run `./nodebb reset -p PLUGINNAME` to disable it.
+  * nodebb-plugin-markdown
+
+18/8 14:12:44 [4206] - [32minfo[39m: Routes added
+18/8 14:12:44 [4206] - [32minfo[39m: NodeBB Ready
+18/8 14:12:44 [4206] - [32minfo[39m: Enabling 'trust proxy'
+18/8 14:12:45 [4206] - [32minfo[39m: NodeBB is now listening on: 0.0.0.0:4567
+18/8 14:17:37 [4206] - [32minfo[39m: [app] Shutdown (SIGTERM/SIGINT) Initialised.
+18/8 14:17:37 [4206] - [32minfo[39m: [app] Database connection closed.
+[cluster] Child Process (4206) has exited (code: 0, signal: null)
+18/8 14:17:37 [4206] - [32minfo[39m: [app] Web server closed to connections.
+18/8 14:17:37 [4206] - [32minfo[39m: [app] Shutdown complete.
+Clustering enabled: Spinning up 1 process(es).
+
+18/8 14:17:38 [4332] - [32minfo[39m: Initializing NodeBB v1.5.3
+[deprecated] `String.prototype.rtrim` is deprecated as of NodeBB v1.5; use `utils.rtrim` instead.
+18/8 14:17:40 [4332] - [32minfo[39m: [socket.io] Restricting access to origin: http://127.0.0.1:*
+
+18/8 14:17:40 [4332] - [33mwarn[39m: [plugins/load] The following plugins may not be compatible with your version of NodeBB. This may cause unintended behaviour or crashing. In the event of an unresponsive NodeBB caused by this plugin, run `./nodebb reset -p PLUGINNAME` to disable it.
+  * nodebb-plugin-markdown
+
+18/8 14:17:40 [4332] - [32minfo[39m: Routes added
+18/8 14:17:40 [4332] - [32minfo[39m: NodeBB Ready
+18/8 14:17:40 [4332] - [32minfo[39m: Enabling 'trust proxy'
+18/8 14:17:40 [4332] - [32minfo[39m: NodeBB is now listening on: 0.0.0.0:4567
+18/8 14:22:02 [4332] - [32minfo[39m: [app] Shutdown (SIGTERM/SIGINT) Initialised.
+Clustering enabled: Spinning up 1 process(es).
+
+18/8 14:22:02 [4332] - [32minfo[39m: [app] Database connection closed.
+18/8 14:22:02 [4332] - [32minfo[39m: [app] Web server closed to connections.
+18/8 14:22:02 [4332] - [32minfo[39m: [app] Shutdown complete.
+[cluster] Child Process (4332) has exited (code: 0, signal: null)
+18/8 14:22:03 [4432] - [32minfo[39m: Initializing NodeBB v1.5.3
+[deprecated] `String.prototype.rtrim` is deprecated as of NodeBB v1.5; use `utils.rtrim` instead.
+18/8 14:22:05 [4432] - [32minfo[39m: [socket.io] Restricting access to origin: http://forum.example.com:*
+
+18/8 14:22:05 [4432] - [33mwarn[39m: [plugins/load] The following plugins may not be compatible with your version of NodeBB. This may cause unintended behaviour or crashing. In the event of an unresponsive NodeBB caused by this plugin, run `./nodebb reset -p PLUGINNAME` to disable it.
+  * nodebb-plugin-markdown
+
+18/8 14:22:05 [4432] - [32minfo[39m: Routes added
+18/8 14:22:05 [4432] - [32minfo[39m: NodeBB Ready
+18/8 14:22:05 [4432] - [32minfo[39m: Enabling 'trust proxy'
+18/8 14:22:05 [4432] - [32minfo[39m: NodeBB is now listening on: 0.0.0.0:4567
+Clustering enabled: Spinning up 1 process(es).
+
+18/8 14:31:15 [4432] - [32minfo[39m: [app] Shutdown (SIGTERM/SIGINT) Initialised.
+18/8 14:31:15 [4432] - [32minfo[39m: [app] Database connection closed.
+18/8 14:31:15 [4432] - [32minfo[39m: [app] Web server closed to connections.
+18/8 14:31:15 [4432] - [32minfo[39m: [app] Shutdown complete.
+[cluster] Child Process (4432) has exited (code: 0, signal: null)
+18/8 14:31:16 [4758] - [32minfo[39m: Initializing NodeBB v1.5.3
+[deprecated] `String.prototype.rtrim` is deprecated as of NodeBB v1.5; use `utils.rtrim` instead.
+18/8 14:31:18 [4758] - [32minfo[39m: [socket.io] Restricting access to origin: http://forum.example.com:*
+
+18/8 14:31:18 [4758] - [33mwarn[39m: [plugins/load] The following plugins may not be compatible with your version of NodeBB. This may cause unintended behaviour or crashing. In the event of an unresponsive NodeBB caused by this plugin, run `./nodebb reset -p PLUGINNAME` to disable it.
+  * nodebb-plugin-markdown
+
+18/8 14:31:18 [4758] - [32minfo[39m: Routes added
+18/8 14:31:18 [4758] - [32minfo[39m: NodeBB Ready
+18/8 14:31:18 [4758] - [32minfo[39m: Enabling 'trust proxy'
+18/8 14:31:18 [4758] - [32minfo[39m: NodeBB is now listening on: 0.0.0.0:4567
+18/8 14:31:41 [4758] - [32minfo[39m: [app] Shutdown (SIGTERM/SIGINT) Initialised.
+Clustering enabled: Spinning up 1 process(es).
+
+18/8 14:31:41 [4758] - [32minfo[39m: [app] Database connection closed.
+18/8 14:31:41 [4758] - [32minfo[39m: [app] Web server closed to connections.
+18/8 14:31:41 [4758] - [32minfo[39m: [app] Shutdown complete.
+[cluster] Child Process (4758) has exited (code: 0, signal: null)
+18/8 14:31:42 [4788] - [32minfo[39m: Initializing NodeBB v1.5.3
+[deprecated] `String.prototype.rtrim` is deprecated as of NodeBB v1.5; use `utils.rtrim` instead.
+18/8 14:31:44 [4788] - [32minfo[39m: [socket.io] Restricting access to origin: http://forum.example.com:*
+
+18/8 14:31:44 [4788] - [33mwarn[39m: [plugins/load] The following plugins may not be compatible with your version of NodeBB. This may cause unintended behaviour or crashing. In the event of an unresponsive NodeBB caused by this plugin, run `./nodebb reset -p PLUGINNAME` to disable it.
+  * nodebb-plugin-markdown
+
+18/8 14:31:44 [4788] - [32minfo[39m: Routes added
+18/8 14:31:44 [4788] - [32minfo[39m: NodeBB Ready
+18/8 14:31:44 [4788] - [32minfo[39m: Enabling 'trust proxy'
+18/8 14:31:44 [4788] - [32minfo[39m: NodeBB is now listening on: 0.0.0.0:4567
+18/8 14:32:18 [4788] - [32minfo[39m: [app] Shutdown (SIGTERM/SIGINT) Initialised.
+Clustering enabled: Spinning up 1 process(es).
+
+18/8 14:32:18 [4788] - [32minfo[39m: [app] Database connection closed.
+18/8 14:32:18 [4788] - [32minfo[39m: [app] Web server closed to connections.
+18/8 14:32:18 [4788] - [32minfo[39m: [app] Shutdown complete.
+[cluster] Child Process (4788) has exited (code: 0, signal: null)
+18/8 14:32:19 [4818] - [32minfo[39m: Initializing NodeBB v1.5.3
+[deprecated] `String.prototype.rtrim` is deprecated as of NodeBB v1.5; use `utils.rtrim` instead.
+18/8 14:32:21 [4818] - [32minfo[39m: [socket.io] Restricting access to origin: http://forum.example.com:*
+
+18/8 14:32:21 [4818] - [33mwarn[39m: [plugins/load] The following plugins may not be compatible with your version of NodeBB. This may cause unintended behaviour or crashing. In the event of an unresponsive NodeBB caused by this plugin, run `./nodebb reset -p PLUGINNAME` to disable it.
+  * nodebb-plugin-markdown
+
+18/8 14:32:22 [4818] - [32minfo[39m: Routes added
+18/8 14:32:22 [4818] - [32minfo[39m: NodeBB Ready
+18/8 14:32:22 [4818] - [32minfo[39m: Enabling 'trust proxy'
+18/8 14:32:22 [4818] - [32minfo[39m: NodeBB is now listening on: 0.0.0.0:4567
+18/8 14:57:00 [4818] - [32minfo[39m: [app] Restarting...
+Clustering enabled: Spinning up 1 process(es).
+
+18/8 14:57:00 [4818] - [32minfo[39m: [app] Shutdown (SIGTERM/SIGINT) Initialised.
+[cluster] Restarting...
+18/8 14:57:00 [4818] - [32minfo[39m: [app] Database connection closed.
+18/8 14:57:00 [4818] - [32minfo[39m: [app] Web server closed to connections.
+18/8 14:57:00 [4818] - [32minfo[39m: [app] Shutdown complete.
+Clustering enabled: Spinning up 1 process(es).
+
+[cluster] Child Process (4957) has exited (code: null, signal: SIGTERM)
+[cluster] Child Process (4818) has exited (code: 0, signal: null)
+18/8 14:57:01 [4994] - [32minfo[39m: Initializing NodeBB v1.5.3
+18/8 14:57:01 [4994] - [31merror[39m: NodeBB could not connect to your Mongo database. Mongo returned the following error: failed to connect to server [127.0.0.1:27017] on first connect [MongoError: connect ECONNREFUSED 127.0.0.1:27017]
+18/8 14:57:01 [4994] - [31merror[39m:  MongoError: failed to connect to server [127.0.0.1:27017] on first connect [MongoError: connect ECONNREFUSED 127.0.0.1:27017]
+    at Pool.<anonymous> (/home/nodebb/nodebb/node_modules/mongodb-core/lib/topologies/server.js:328:35)
+    at emitOne (events.js:96:13)
+    at Pool.emit (events.js:188:7)
+    at Connection.<anonymous> (/home/nodebb/nodebb/node_modules/mongodb-core/lib/connection/pool.js:280:12)
+    at Connection.g (events.js:292:16)
+    at emitTwo (events.js:106:13)
+    at Connection.emit (events.js:191:7)
+    at Socket.<anonymous> (/home/nodebb/nodebb/node_modules/mongodb-core/lib/connection/connection.js:177:49)
+    at Socket.g (events.js:292:16)
+    at emitOne (events.js:96:13)
+[cluster] Child Process (4994) has exited (code: 0, signal: null)
+
+NodeBB v1.5.3 Copyright (C) 2013-2014 NodeBB Inc.
+This program comes with ABSOLUTELY NO WARRANTY.
+This is free software, and you are welcome to redistribute it under certain conditions.
+For the full license, please visit: http://www.gnu.org/copyleft/gpl.html
+
+Clustering enabled: Spinning up 1 process(es).
+
+18/8 16:23:44 [1323] - [32minfo[39m: Initializing NodeBB v1.5.3
+[deprecated] `String.prototype.rtrim` is deprecated as of NodeBB v1.5; use `utils.rtrim` instead.
+18/8 16:23:47 [1323] - [32minfo[39m: [socket.io] Restricting access to origin: http://forum.example.com:*
+
+18/8 16:23:48 [1323] - [33mwarn[39m: [plugins/load] The following plugins may not be compatible with your version of NodeBB. This may cause unintended behaviour or crashing. In the event of an unresponsive NodeBB caused by this plugin, run `./nodebb reset -p PLUGINNAME` to disable it.
+  * nodebb-plugin-markdown
+
+18/8 16:23:48 [1323] - [32minfo[39m: Routes added
+18/8 16:23:48 [1323] - [32minfo[39m: NodeBB Ready
+18/8 16:23:48 [1323] - [32minfo[39m: Enabling 'trust proxy'
+18/8 16:23:48 [1323] - [32minfo[39m: NodeBB is now listening on: 0.0.0.0:4567

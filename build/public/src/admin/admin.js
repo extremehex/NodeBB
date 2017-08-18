@@ -1,0 +1,1 @@
+/home/nodebb/nodebb/public/src/admin/admin.js

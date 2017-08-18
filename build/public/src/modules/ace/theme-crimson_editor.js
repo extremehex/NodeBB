@@ -1,0 +1,1 @@
+/home/nodebb/nodebb/node_modules/ace-builds/src-min/theme-crimson_editor.js

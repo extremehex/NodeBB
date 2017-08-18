@@ -1,0 +1,13 @@
+{
+    "url": "http://forum.example.com",
+    "secret": "3337d21e-a98d-4f2c-8384-f38e4f331b68",
+    "database": "mongo",
+    "port": "4567",
+    "mongo": {
+        "host": "127.0.0.1",
+        "port": "27017",
+        "username": "nodebb",
+        "password": "b,123654",
+        "database": "nodebb"
+    }
+}
